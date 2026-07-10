@@ -1,0 +1,10 @@
+.avatar.proportioned{
+    Width: 300px;
+    height: auto;
+
+}
+.avatar.distorted{
+    width: 200px;
+    height: 600px;
+    
+}
