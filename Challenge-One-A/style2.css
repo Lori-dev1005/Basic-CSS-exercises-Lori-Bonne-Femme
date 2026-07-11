@@ -1,0 +1,28 @@
+.firstletters{font-family: Arial, Helvetica, sans-serif;
+}
+ul{list-style: none;}
+body{background-color: rgb(217, 170, 130);
+margin: 0;}
+#container { background-color: rgb(218, 217, 195);
+    border: dotted;
+    width: 800px;
+    margin: 10px auto;
+    padding: 10px;
+}
+h1{font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+font-style: italic;
+margin: 0px 0px 10px 0px;
+text-align: center;
+border-bottom: dotted;
+padding-bottom: 10px;
+}
+li{text-align: center;
+font-family: Arial, Helvetica, sans-serif   ;}
+p{font-family: Arial, Helvetica, sans-serif;
+text-align: center;}
+li::first-letter{text-transform: uppercase;
+font-weight: bold;}
+li{font-style: italic;}
+a {text-decoration: none;
+color: blue;
+text-align: center;}
